@@ -1,0 +1,68 @@
+.baner{
+    color:white;
+    padding-left:300px;
+    font-size: 30px;      
+} 
+.main{
+    padding-left: 800px;
+}  
+.paper{
+    padding-top:600px;
+    padding-left:650px ;
+
+}
+.text{
+    margin-top:  top 400px; 
+}
+
+     
+
+header{
+    display: flex;
+    justify-content:space-around;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    flex:3;
+}
+.logo{
+    flex:1;
+    margin-left:30px ;
+}
+.icon{
+    flex:1;
+}
+.pusto{
+    flex:2;
+}
+.menu__elem{
+    text-decoration:none ;
+    display:inline-block ;
+    margin: 0 25px;
+    font-size: 20px;
+}
+.pack{
+    display:flex;
+    justify-content: space-between;
+
+}
+.simple{
+     margin-top: 100px; 
+   
+}
+.photo{
+    margin-left: 400px; 
+}
+a{
+    color: rgb(150, 255, 255);
+    background-color:rgb(188, 177, 177);
+    padding: 30px;   
+    text-decoration: none;
+    font-size: 24px;
+    margin-top:100px ;
+    display: inline-block;
+
+}
+
+
